@@ -1,0 +1,5 @@
+Usage:
+    For Building Index:
+        bash go.sh <path_to_dump> <path_to_index_directory>
+    For running search queries:
+        python3 search.py <path_to_index>
